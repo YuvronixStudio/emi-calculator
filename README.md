@@ -7,13 +7,6 @@ No frameworks. No dependencies. No setup pain.
 
 ---
 
-## 🔗 Live Demo
-
-👉 **View Live Demo:**  
-https://yourusername.github.io/emi-calculator/
-
----
-
 ## ✨ Features
 
 - Instant EMI calculation (no page reloads)
@@ -57,7 +50,6 @@ No libraries. Works everywhere.
 ## 📦 Project Structure
 
 emi-calculator/
-│
 ├── index.html
 ├── styles.css
 ├── script.js
@@ -80,7 +72,7 @@ emi-calculator/
 
 ### Change currency symbol
 Open `script.js` and edit:
-```js
+``` js
 const CURRENCY = "₹";
 Change colors or fonts
 Edit styles.css
