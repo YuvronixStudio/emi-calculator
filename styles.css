@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+  font-family: system-ui, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  background: #f5f7fb;
+}
+
+.emi-card {
+  max-width: 420px;
+  margin: auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.input-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 6px;
+  color: #333;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+}
+
+input:focus {
+  outline: none;
+  border-color: #4f46e5;
+}
+
+.results {
+  margin-top: 20px;
+  border-top: 1px solid #eee;
+  padding-top: 15px;
+}
+
+.results div {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.results span {
+  color: #555;
+}
+
+.results strong {
+  color: #111;
+}
