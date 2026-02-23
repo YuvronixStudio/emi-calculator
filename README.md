@@ -56,7 +56,6 @@ emi-calculator/
 ├── README.md
 └── LICENSE
 
-
 ---
 
 ## 🚀 How to Use
